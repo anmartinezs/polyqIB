@@ -1,5 +1,6 @@
 # polyqIB
 This software was developed to analyze the membrane-bound ribosome density and curvature of ER membranes in cryo-electron tomograms.
+This repository is deprecated; please use [PyCurv](https://github.com/kalemaria/pycurv) instead.
 
 # ribosome_centers_mapping folder
 This folder contains MATLAB scripts used to map ribosome center coordinates obtained by template matching onto a membrane mask from tomogram segmentation. Usage details can be found in the
